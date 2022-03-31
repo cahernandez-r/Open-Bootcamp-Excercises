@@ -1,1 +1,1 @@
-# Open-Bootcamp-Excercises
+# Open-Bootcamp-Exercises
