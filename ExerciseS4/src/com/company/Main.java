@@ -40,13 +40,13 @@ public class Main {
                 System.out.println("La estacion es verano");
                 break;
             case "Otoño":
-                System.out.println("La estacion es verano");
+                System.out.println("La estacion es otoño");
                 break;
             case "Primavera":
-                System.out.println("La estacion es verano");
+                System.out.println("La estacion es primavera");
                 break;
             case "Invierno":
-                System.out.println("La estacion es verano");
+                System.out.println("La estacion es invierno");
                 break;
             default:
                 System.out.println("No es ninguna estacion");
